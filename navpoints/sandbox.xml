@@ -1,0 +1,18 @@
+﻿<navpoint>
+  <id>sandbox</id>
+  <newId>0</newId>
+  <type>page</type>
+  <label>sandbox</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <notes>Various navpoints expected by ToolTwist.</notes>
+  <onlyContainsAliases>N</onlyContainsAliases>
+  <navpoint>
+    <id>1</id>
+    <newId>1</newId>
+    <type>page</type>
+    <label>New Navpoint</label>
+    <url></url>
+    <useSSL>N</useSSL>
+  </navpoint>
+</navpoint>
